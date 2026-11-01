@@ -3,7 +3,7 @@ import { StyleSheet, Text, View } from "react-native";
 export default function FlatCard() {
   return (
     <View>
-      <Text style={styles.headingText}>Hello I am your FlatCard!</Text>
+      <Text style={styles.headingText}>Hello I am Are FlatCard!</Text>
       <View style={styles.container}>
         <View style={[styles.cardOne, styles.card]}>
           <Text style = {styles.cardText}>Blue</Text>
